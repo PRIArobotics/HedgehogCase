@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="105mm"
+   height="148mm"
+   viewBox="0 0 372.04724 524.40944"
+   id="svg4421"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="case_right_2.svg">
+  <defs
+     id="defs4423">
+    <radialGradient
+       id="radialGradient3817"
+       gradientUnits="userSpaceOnUse"
+       cy="33.900002"
+       cx="270.57999"
+       gradientTransform="matrix(0.26631,0.065024,-0.17931,0.73438,-60.668,-36.938)"
+       r="19.570999">
+      <stop
+         stop-color="#ff6d0f"
+         offset="0"
+         id="stop12" />
+      <stop
+         stop-color="#ff1000"
+         offset="1"
+         id="stop14" />
+    </radialGradient>
+    <radialGradient
+       id="radialGradient3661"
+       gradientUnits="userSpaceOnUse"
+       cy="29.149"
+       cx="282.64999"
+       gradientTransform="matrix(0.14777,0.23089,-0.2468,0.15795,-26.318,-62.617)"
+       r="19.570999">
+      <stop
+         stop-color="#71b2f8"
+         offset="0"
+         id="stop7" />
+      <stop
+         stop-color="#002795"
+         offset="1"
+         id="stop9" />
+    </radialGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="35.157234"
+     inkscape:cy="427.51632"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="744"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4426">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-527.95276)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.25px;line-height:125%;font-family:Arial;-inkscape-font-specification:'Arial Bold';letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="-547.67346"
+       y="15.274119"
+       id="text5509-3-3"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan5511-6-56"
+         x="-547.67346"
+         y="15.274119">U</tspan></text>
+    <g
+       id="right"
+       transform="matrix(3.5433071,0,0,3.5433071,98.604156,759.67328)"
+       style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none">
+      <g
+         transform="scale(1,-1)"
+         id="g22"
+         style="fill:none;stroke:#000000;stroke-width:0.02822222;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none">
+        <path
+           inkscape:connector-curvature="0"
+           id="1"
+           d="m -3,42.5 3,0"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="2"
+           d="m 0,42.5 0,-20"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="3"
+           d="m 0,22.5 -3,0"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="4"
+           d="M -3,22.5 -3,0"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="5"
+           d="m -3,0 -8,0"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="6"
+           d="m -11,0 0,3"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="7"
+           d="m -11,3 -8.5,0"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="8"
+           d="m -19.5,3 0,-3"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="9"
+           d="m -19.5,0 -8,0"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="10"
+           d="m -27.5,0 0,5"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="11"
+           d="M -27.5,5 -9,5"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="12"
+           d="m -9,5 0,54"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="13"
+           d="m -9,59 -15.5,0"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="14"
+           d="m -24.5,59 0,-17"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="15"
+           d="m -24.5,42 -3,0"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="16"
+           d="m -27.5,42 0,23"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="17"
+           d="m -27.5,65 8,0"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="18"
+           d="m -19.5,65 0,-3"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="19"
+           d="m -19.5,62 8.5,0"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="20"
+           d="m -11,62 0,3"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="21"
+           d="m -11,65 8,0"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+        <path
+           inkscape:connector-curvature="0"
+           id="22"
+           d="M -3,65 -3,42.5"
+           style="stroke-width:0.02822222;stroke-miterlimit:4;stroke-dasharray:none" />
+      </g>
+    </g>
+  </g>
+</svg>

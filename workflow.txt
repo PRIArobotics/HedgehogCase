@@ -1,0 +1,16 @@
+Workflow for the Epilog Fusion M2 75W
+
+FreeCAD:
+	export page as svg
+Inkscape:
+	file -> document properties -> default units -> mm
+	select everything
+	Crtl+Shift+F
+	Stroke Style -> Width -> 0,1px
+	add graphics + text
+	export PDF 600dpi
+
+Laser Settings for 3mm green Plexiglass:
+	Engrave: Speed 70, Power 50, Frequency 50
+	Engrave: Speed 3, Power 50, Frequency 30
+
