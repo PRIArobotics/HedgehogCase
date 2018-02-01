@@ -12,5 +12,5 @@ Inkscape:
 
 Laser Settings for 3mm green Plexiglass:
 	Engrave: Speed 70, Power 50, Frequency 50
-	Engrave: Speed 3, Power 50, Frequency 30
+	Cut: Speed 3, Power 50, Frequency 30
 
